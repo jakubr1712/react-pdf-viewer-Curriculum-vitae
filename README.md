@@ -1,5 +1,5 @@
 
-# React TypeScript Vite - Sample CV with React-PDF
+# React TypeScript Vite - Sample CV with @react-pdf/renderer
 
 This project demonstrates how to create a dynamic and printable CV using React, TypeScript, and Vite. It utilizes `@react-pdf/renderer` to generate a PDF directly from React components, providing a straightforward approach to build and customize a CV.
 
