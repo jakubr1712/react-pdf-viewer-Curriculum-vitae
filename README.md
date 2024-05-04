@@ -36,7 +36,7 @@ After launching the application, navigate to `http://localhost:5173` to view the
 
 Below is an example screenshot of the CV that you can generate with this project:
 
-![Example CV](img.png)
+![Example CV](img.jpg)
 
 Feel free to customize the layout and content of the CV to suit your professional needs.
 
